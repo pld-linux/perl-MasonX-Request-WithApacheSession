@@ -6,7 +6,7 @@
 %define		pdir	MasonX
 %define		pnam	Request-WithApacheSession
 Summary:	MasonX::Request::WithApacheSession - add a session to the Mason Request object
-Summary(pl):	MasonX::Request::WithApacheSession - dodawanie sesji do obiektu Mason Request
+Summary(pl.UTF-8):   MasonX::Request::WithApacheSession - dodawanie sesji do obiektu Mason Request
 Name:		perl-MasonX-Request-WithApacheSession
 Version:	0.30
 Release:	1
@@ -28,9 +28,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This module integrates Apache::Session into Mason by adding methods to
 the Mason Request object available in all Mason components.
 
-%description -l pl
-Ten modu³ integruje Apache::Session w Masona poprzez dodanie do
-obiektu Mason Request metod dostêpnych we wszystkich komponentach
+%description -l pl.UTF-8
+Ten moduÅ‚ integruje Apache::Session w Masona poprzez dodanie do
+obiektu Mason Request metod dostÄ™pnych we wszystkich komponentach
 Masona.
 
 %prep
