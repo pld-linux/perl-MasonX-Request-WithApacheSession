@@ -6,7 +6,7 @@
 %define		pdir	MasonX
 %define		pnam	Request-WithApacheSession
 Summary:	MasonX::Request::WithApacheSession - add a session to the Mason Request object
-Summary(pl.UTF-8):   MasonX::Request::WithApacheSession - dodawanie sesji do obiektu Mason Request
+Summary(pl.UTF-8):	MasonX::Request::WithApacheSession - dodawanie sesji do obiektu Mason Request
 Name:		perl-MasonX-Request-WithApacheSession
 Version:	0.30
 Release:	1
