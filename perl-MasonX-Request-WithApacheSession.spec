@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	MasonX
 %define		pnam	Request-WithApacheSession
 Summary:	MasonX::Request::WithApacheSession - add a session to the Mason Request object
