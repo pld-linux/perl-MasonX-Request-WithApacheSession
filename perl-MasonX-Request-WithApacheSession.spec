@@ -7,13 +7,13 @@
 Summary:	MasonX::Request::WithApacheSession - add a session to the Mason Request object
 Summary(pl.UTF-8):	MasonX::Request::WithApacheSession - dodawanie sesji do obiektu Mason Request
 Name:		perl-MasonX-Request-WithApacheSession
-Version:	0.30
+Version:	0.31
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/MasonX/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d613565d3c7b2242b75e9f7552470dcf
+Source0:	https://www.cpan.org/modules/by-module/MasonX/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	a05a477bb99789e1a87fcb5b0196fbf5
 URL:		http://search.cpan.org/dist/MasonX-Request-WithApacheSession/
 BuildRequires:	perl-Module-Build
 BuildRequires:	perl-devel >= 1:5.8.0
